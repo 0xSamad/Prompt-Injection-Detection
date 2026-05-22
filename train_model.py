@@ -71,7 +71,7 @@ print("=" * 60)
 print("  PROMPT INJECTION DETECTION — MODEL TRAINING")
 print("=" * 60)
 
-df = pd.read_csv("train.csv")
+df = pd.read_csv("prompt_injection_dataset.csv")
 X  = df["text"].values
 y  = df["label"].values
 
