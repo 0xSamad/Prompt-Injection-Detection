@@ -11,7 +11,6 @@
 
 | File / Folder | Description |
 |---|---|
-| `final_paper.docx` | Complete research paper (IEEE format, all sections + figures) |
 | `prompt_injection_dataset.csv` | Labeled dataset — 586 samples, 6 classes |
 | `train_model.py` | Python model training script |
 | `figures/` | All result figures (PNG) |
