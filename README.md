@@ -1,9 +1,9 @@
 # Taxonomy-Driven AI-Based Detection of Prompt Injection Attacks
-## Submission Package — CSC-601 Artificial Intelligence (Lab)
+
 
 **Authors:** Abdul Samad & Maqbool Hussain
 **Department:** Computer Science, Institute of Management Sciences, Peshawar
-**Instructor:** Mr. Ali Haider
+
 
 ---
 
